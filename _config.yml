@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Unicorn’s home”
+title                    : “Unicorn home”
 title_separator          : "-"
 name                     : &name "Unicorn"
 description              : &description "personal description"
