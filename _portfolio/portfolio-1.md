@@ -1,7 +1,6 @@
 ---
 title: "A photo of the unicorn"
-excerpt: "The unicorn just wakes up"
-<br/><img src='/images/Jinjiaobaobao.jpeg'>"
+excerpt: "The unicorn just wakes up<br/><img src='/images/Jinjiaobaobao.jpeg'>"
 collection: portfolio
 ---
 
