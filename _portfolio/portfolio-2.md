@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/jinjiao.jpeg'>"
+title: "A photo of unicorn group"
+excerpt: "The unicorn and its members happliy sitting on our bed"
+<br/><img src='/images/Jinjiao_group.jpeg'>"
 collection: portfolio
 ---
 
