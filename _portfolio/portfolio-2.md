@@ -1,5 +1,5 @@
 ---
-title: "A photo of unicorn group"
+title: "A photo of the unicorn group"
 excerpt: "The unicorn and its members happliy sitting on our bed<br/><img src='/images/Jinjiao_group.jpeg'>"
 collection: portfolio
 ---
