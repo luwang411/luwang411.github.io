@@ -14,8 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-Education
+Daily life
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Morning: watching my female hoster sleep
+* Daytime: sitting on the bed with the bear, sometimes get chance to have a sleep
+* Nighttime: watch my hoster couple sleep, sometimes have a meeting with my team members
+![](image.png)/Users/xy6g13/Documents/Work/luwang411.github.io/images/bear.pdf
