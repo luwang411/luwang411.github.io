@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /group/
 title: "Group members"
 author_profile: true
 redirect_from: 

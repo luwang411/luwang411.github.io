@@ -4,7 +4,7 @@ main:
     url: /life/
 
   - title: “Group”
-    url: /markdown/
+    url: /group/
 
   - title: “Photo”
     url: /portfolio/
@@ -12,8 +12,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "CV"
-    url: /cv1/
+  #- title: "CV"
+  #  url: /cv/
 
   #- title: "Guide"
   #  url: /markdown/
