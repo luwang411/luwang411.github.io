@@ -3,6 +3,8 @@ layout: archive
 title: "Life"
 permalink: /life/
 author_profile: true
+excerpt: "The unicorn just wakes up in the morning<br/><img src='/images/Jinjiaobaobao.pdf'>"
+collection: portfolio
 ---
 
 {% if author.googlescholar %}
