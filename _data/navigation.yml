@@ -6,9 +6,6 @@ main:
   - title: “Group”
     url: /markdown/
 
-#  - title: “Photo”
-#   url: /teaching/
-
   - title: “Photo”
     url: /portfolio/
 
@@ -20,3 +17,4 @@ main:
 
   #- title: "Guide"
   #  url: /markdown/
+  

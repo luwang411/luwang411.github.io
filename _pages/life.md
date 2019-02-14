@@ -19,7 +19,7 @@ author_profile: true
 
 * Morning: watching my female hoster sleep
 * Daytime: sitting on the bed with the bear, sometimes get chance to have a sleep
-* Nighttime: watch my hoster couple sleep, sometimes have a meeting with my team members
+* Nightime: watch my hoster couple sleep, sometimes have a meeting with my team members
 
 #### See: we did not lie to you - the unicorn is having a break on our bed, with its good friend bear who is sleeping all the time
 
