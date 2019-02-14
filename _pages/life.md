@@ -21,3 +21,6 @@ author_profile: true
 * Daytime: sitting on the bed with the bear, sometimes get chance to have a sleep
 * Nighttime: watch my hoster couple sleep, sometimes have a meeting with my team members
 
+#### See: we did not lie to you - the unicorn is have a break on our bed, with its good friend bear who is sleeping all the time
+
+![sleep](Jinjiao_sleep.pdf)

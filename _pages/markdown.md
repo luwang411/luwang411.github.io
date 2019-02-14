@@ -11,7 +11,9 @@ redirect_from:
 
 ![the bear](bear.pdf)
 
+### Team member 2 - the mini unicorn
 
+![mini one](mini.pdf)
 
 ## Tips and hints
 
