@@ -15,10 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Daily life
-======
+## Daily life
+
 * Morning: watching my female hoster sleep
 * Daytime: sitting on the bed with the bear, sometimes get chance to have a sleep
 * Nighttime: watch my hoster couple sleep, sometimes have a meeting with my team members
 
-![the bear](bear.pdf)
