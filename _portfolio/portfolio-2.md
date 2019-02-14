@@ -1,7 +1,7 @@
 ---
-title: "A photo of the unicorn group"
+title: "The unicorn family"
 excerpt: "The unicorn and its members happliy sitting on our bed<br/><img src='/images/Jinjiao_group.pdf'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Photo taken on the 2019 Chinese New Year Eve by Lu Wang.
