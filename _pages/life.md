@@ -3,8 +3,6 @@ layout: archive
 title: "Life"
 permalink: /life/
 author_profile: true
-excerpt: "The unicorn just wakes up in the morning<br/><img src='/images/Jinjiaobaobao.pdf'>"
-collection: portfolio
 ---
 
 {% if author.googlescholar %}
@@ -16,3 +14,8 @@ collection: portfolio
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)

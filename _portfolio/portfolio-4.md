@@ -1,6 +1,6 @@
 ---
-title: "A photo of the unicorn group"
-excerpt: "The unicorn is falling sleep on our bed, with its good friend bear who is sleepling all the time<br/><img src='/images/bear.pdf'>"
+title: "Unicorn team member 1"
+excerpt: "The bear <br/><img src='/images/bear.pdf'>"
 collection: portfolio
 ---
 

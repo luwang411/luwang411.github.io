@@ -1,5 +1,5 @@
 ---
-title: "A photo of the unicorn group"
+title: "A photo of the unicorn and its sleeping friend"
 excerpt: "The unicorn is falling sleep on our bed, with its good friend bear who is sleepling all the time<br/><img src='/images/Jinjiao_sleep.pdf'>"
 collection: portfolio
 ---
