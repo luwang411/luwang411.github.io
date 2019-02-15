@@ -9,8 +9,8 @@ main:
   - title: “Photo”
     url: /portfolio/
 
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Cat"
+    url: /cat/
 
   #- title: "CV"
   #  url: /cv/
